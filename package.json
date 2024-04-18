@@ -1,0 +1,25 @@
+{
+  "name": "aula-6-trabajo-en-grupo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/prompt-sync": "^4.2.3",
+    "jest": "^29.7.0",
+    "jester": "^0.2.3",
+    "prompt-sync": "^4.2.0",
+    "test-jest": "^1.0.1",
+    "ts-nest": "^0.0.9",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.5"
+  },
+  "devDependencies": {
+    "@types/jest": "^29.5.12",
+    "ts-jest": "^29.1.2"
+  }
+}
